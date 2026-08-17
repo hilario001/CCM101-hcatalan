@@ -8,16 +8,16 @@ utilities usage, documentation and the use of Github.
 
 ## Objectives
 
-Explore Linux
-GNU Core utilities usage
-Maintain a public Github repository
-Markdown files as documentation
+- Explore Linux
+- GNU Core utilities usage
+- Maintain a public Github repository
+- Markdown files as documentation
 
 ## Activities Performed
 
-Creating a public repository and modifying it
-Administer a Linux Operating System
-Basic Git and Github functionalities
+- Creating a public repository and modifying it
+- Administer a Linux Operating System
+- Basic Git and Github functionalities
 
 ## Linux Commands Used
 
@@ -26,7 +26,7 @@ vim, cat, git, gh
 
 ## Skills Learned
 
-Linux users and files management
-Linux file system navigation
-Markdown syntax
-Use of Git and Github
+- Linux users and files management
+- Linux file system navigation
+- Markdown syntax
+- Use of Git and Github
