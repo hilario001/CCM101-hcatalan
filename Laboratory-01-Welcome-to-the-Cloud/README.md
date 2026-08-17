@@ -1,24 +1,32 @@
-# Lab 1: Welcome to the Cloud insights
+# Laboratory 01: Welcome to the Cloud
 
 ## Mission Overview
 
-Introduce concepts about cloud computing and do basic training.
+Cloud computing training through KillerCoda playground and Ubuntu as the
+Operating System. This focuses on basic Linux administration, basic commandline
+utilities usage, documentation and the use of Github.
 
 ## Objectives
 
-To be able to make a public repository
-Use git and github
+Explore Linux
+GNU Core utilities usage
+Maintain a public Github repository
+Markdown files as documentation
 
 ## Activities Performed
 
-Creating a public repository
-Modifying repository by creating files and folders
+Creating a public repository and modifying it
+Administer a Linux Operating System
+Basic Git and Github functionalities
 
 ## Linux Commands Used
 
-Basic commandline utilities such as cd and ls, as well as Git
+cd, ls, useradd, sudo, passwd, su, lsb\_release, uname, lscpu, free, df, mkdir,
+vim, cat, git, gh
 
 ## Skills Learned
 
-Cloud computing fundamentals
-Basic use of Git and Github
+Linux users and files management
+Linux file system navigation
+Markdown syntax
+Use of Git and Github
