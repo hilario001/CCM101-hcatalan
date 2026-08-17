@@ -13,13 +13,13 @@
 
 
 1. Which cloud provider offers the broadest range of services?  
-    `**Amazon Web Services (AWS)** offers the broadest overall portfolio with over 200 fully-featured services.`
+    **Amazon Web Services (AWS)** offers the broadest overall portfolio with over 200 fully-featured services.
 
 2. Which provider best integrates with Microsoft technologies?  
-    `**Microsoft Azure** integrates seamlessly with existing Windows Server, SQL Server, .NET, and Microsoft 365 setups.`
+    **Microsoft Azure** integrates seamlessly with existing Windows Server, SQL Server, .NET, and Microsoft 365 setups.
 
 3. Which provider is strongest in Artificial Intelligence and Kubernetes?  
-    `**Google Cloud Platform (GCP)** leads here, as Google created Kubernetes and offers industry-leading tools like BigQuery and Vertex AI.`
+    **Google Cloud Platform (GCP)** leads here, as Google created Kubernetes and offers industry-leading tools like BigQuery and Vertex AI.
 
 4. Which cloud platform would you personally choose and why?  
-    `I would choose **Google Cloud Platform (GCP)** for its intuitive project-based organization, top-tier managed Kubernetes (GKE), and frictionless AI/data analytics pipeline.`
+    I would choose **Google Cloud Platform (GCP)** for its intuitive project-based organization, top-tier managed Kubernetes (GKE), and frictionless AI/data analytics pipeline.
